@@ -1,0 +1,3 @@
+rootProject.name = 'ls_law_3452'
+
+include ':app'
